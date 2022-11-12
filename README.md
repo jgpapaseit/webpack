@@ -181,3 +181,19 @@ Se observa en opciones, un array con dos presets de babel para transpilar el có
 Se debe añadir las extensiones '.js' y '.jsx' en el array de extensiones admitidas
 
 ***
+
+### Configuración de bootstrap ###
+
+***Instalación de librería***
+
+> `npm i -D bootstrap`
+
+***Importar librería en index.js***
+
+	import 'bootstrap'
+
+***Importar librería en style.sass***
+
+	@import 'bootstrap'
+
+***
