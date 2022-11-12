@@ -2,7 +2,9 @@ import React from "react";
 const App = () => {
 	return (
 		<>
-			<h1>Primer commit de la app</h1>
+			<div className="container my-3">
+				<h1>Instalación de bootstrap</h1>
+			</div>
 		</>
 	);
 };
