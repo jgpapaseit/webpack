@@ -197,3 +197,7 @@ Se debe añadir las extensiones '.js' y '.jsx' en el array de extensiones admiti
 	@import 'bootstrap'
 
 ***
+
+### Ejemplo TODO ###
+
+mini app de creación de lista en react y sass con bootstrap
